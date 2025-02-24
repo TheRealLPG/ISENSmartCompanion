@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ISENSmartCompanion</string>
     <string name="isen_logo">ISEN Logo</string>
+    <string name="bottom_nav_bar_home">Home</string>
+    <string name="bottom_nav_bar_events">Events</string>
+    <string name="bottom_nav_bar_history">History</string>
 </resources>
